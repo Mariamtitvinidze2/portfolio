@@ -1,0 +1,65 @@
+export const data = [
+  {
+    photo: "/projects/jobebi.png",
+    name: "Jobs.ge",
+    languages: "Node.js, React",
+    live: "https://jobs-ge-frontend.vercel.app/",
+    git: "https://github.com/Mariamtitvinidze2/jobs.ge.frontend",
+  },
+  {
+    photo: "/projects/facebook.png",
+    name: "Facebook",
+    languages: "React, Firebase",
+    live: "https://finaluri-react.vercel.app/",
+    git: "https://github.com/Mariamtitvinidze2/facebook-clone",
+  },
+  {
+    photo: "/projects/invoices.png",
+    name: "Invoice app",
+    languages: "React",
+    live: "https://invoice-app-5wpj.vercel.app/",
+    git: "https://github.com/Mariamtitvinidze2/invoice-app",
+  },
+  {
+    photo: "/projects/devfinder.png",
+    name: "devfinder",
+    languages: "React",
+    live: "https://shualeduri-4-taupe.vercel.app/",
+    git: "https://github.com/Mariamtitvinidze2/devfinder",
+  },
+  {
+    photo: "/projects/prodact.png",
+    name: "product-feedbackapp",
+    languages: "React",
+    live: "https://product-feedbackapp.vercel.app/",
+    git: "https://github.com/Mariamtitvinidze2/Product-Feedback-App",
+  },
+  {
+    photo: "/projects/generator.png",
+    name: "password generator",
+    languages: "React",
+    live: "https://react-shualeduri4.vercel.app/",
+    git: "https://github.com/Mariamtitvinidze2/password-generator",
+  },
+  {
+    photo: "/projects/timer.png",
+    name: "timer",
+    languages: "React",
+    live: "https://react-hm11-apwi.vercel.app/",
+    git: "https://github.com/Mariamtitvinidze2/timeer",
+  },
+  {
+    photo: "/projects/movies.png",
+    name: "movies",
+    languages: "React Typescript",
+    live: "https://react-shualeduri3-phi.vercel.app/",
+    git: "https://github.com/Mariamtitvinidze2/movies",
+  },
+  {
+    photo: "/projects/listing.png",
+    name: "Job Listing",
+    languages: "React Typescript",
+    live: "https://todos-two-plum.vercel.app/",
+    git: "https://github.com/Mariamtitvinidze2/Job-listing",
+  }
+];
